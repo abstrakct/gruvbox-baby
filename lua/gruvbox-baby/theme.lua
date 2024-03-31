@@ -137,7 +137,7 @@ function M.setup(config)
     ["@exception"] = { fg = c.red },
     ["@keyword.exception"] = { fg = c.red },
     ["@type"] = { fg = c.clean_green },
-    ["@type.builtin"] = { fg = c.blue_gray },
+    ["@type.builtin"] = { fg = c.clean_green },
     ["@type.qualifier"] = { fg = c.orange },
     ["@storageclass.lifetime"] = { fg = c.orange },
     ["@keyword.storage.lifetime"] = { fg = c.orange },

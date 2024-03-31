@@ -7,7 +7,7 @@ Contains changes for my custom preferences.
 
 ## Changes
 
-- Only README so far ;)
+- builtin types use same color as not-builtin types
 
 
 Original README from luisiacc:

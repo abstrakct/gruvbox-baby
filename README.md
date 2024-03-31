@@ -2,6 +2,15 @@
 
 # 🎄 Gruvbox baby!
 
+My customized variation of the luisiacc's [gruvbox-baby theme](https://github.com/luisiacc/gruvbox-baby).
+Contains changes for my custom preferences.
+
+## Changes
+
+- Only README so far ;)
+
+
+Original README from luisiacc:
 My variation of the gruvbox theme with full support for treesitter!
 
 ## 🤔 Why?

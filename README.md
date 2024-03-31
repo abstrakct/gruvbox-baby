@@ -10,7 +10,8 @@ Contains changes for my custom preferences.
 - builtin types use same color as not-builtin types
 
 
-Original README from luisiacc:
+## Original README:
+
 My variation of the gruvbox theme with full support for treesitter!
 
 ## 🤔 Why?

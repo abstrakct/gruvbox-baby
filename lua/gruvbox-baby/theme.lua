@@ -20,7 +20,7 @@ function M.setup(config)
     Normal = { fg = c.foreground, bg = c.background },
     Comment = { fg = c.comment, style = config.comment_style },
     Constant = { fg = c.pink },
-    String = { fg = c.soft_green, style = config.string_style },
+    String = { fg = c.light_blue, style = config.string_style },
     Character = { fg = c.soft_yellow },
     Number = { fg = c.bright_yellow },
     Boolean = { fg = c.orange },

@@ -13,7 +13,8 @@ local the_palette = {
   comment = "#665c54",
   gray = "#DEDEDE",
   soft_yellow = "#eebd35",
-  soft_green = "#98971a",
+  -- soft_green = "#98971a",
+  soft_green = "#689d6a",
   bright_yellow = "#fabd2f",
   orange = "#d65d0e",
   red = "#fb4934",
@@ -30,8 +31,22 @@ local the_palette = {
 }
 
 the_palette.term = {
-  "#282828", "#cc241d", "#98971a", "#d79921", "#458588", "#b16286", "#689d6a", "#ebdbb2",
-  "#928374", "#fb4934", "#b8bb26", "#fabd2f", "#83a598", "#d3869b", "#8ec07c", "#a89984",
+  "#282828",
+  "#cc241d",
+  "#98971a",
+  "#d79921",
+  "#458588",
+  "#b16286",
+  "#689d6a",
+  "#ebdbb2",
+  "#928374",
+  "#fb4934",
+  "#b8bb26",
+  "#fabd2f",
+  "#83a598",
+  "#d3869b",
+  "#8ec07c",
+  "#a89984",
 }
 
 -- these are backgrounds

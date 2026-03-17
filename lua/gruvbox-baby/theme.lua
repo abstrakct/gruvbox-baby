@@ -103,7 +103,7 @@ function M.setup(config)
     ["@constant"] = { fg = c.pink, style = "bold" },
     ["@definition.constant"] = { fg = c.pink, style = "bold" },
     ["@constant.builtin"] = { fg = c.pink },
-    ["@string"] = { fg = c.light_blue, style = config.string_style },
+    ["@string"] = { fg = c.soft_green, style = config.string_style },
     ["@character"] = { fg = c.soft_green },
     ["@number"] = { fg = c.magenta },
     ["@namespace"] = { fg = c.light_blue },
